@@ -1,0 +1,99 @@
+p{
+    font-family: Frank Ruhl Libre;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+}
+
+header img{
+    width: 275px;
+}
+
+hr{
+    margin:0;
+}
+
+header p{
+    background-color: rgb(255, 259, 227);
+    color:#003535;
+    margin:0;
+    height: 40px;
+    font-family: Frank Ruhl Libre;
+    padding-top: 10px;
+}
+
+h1{
+    font-family: Frank Ruhl Libre;
+    font-weight: 700;
+}
+
+main img{
+    width:40rem;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(190,190,190);
+}
+
+.author{
+    color: gray;
+    font-family: Frank Ruhl Libre;
+    font-weight: regular;
+    font-size: 1rem;
+    
+}
+
+main div{
+    text-align: start; 
+}
+
+main div p{
+    color: red;
+    font-family: Frank Ruhl Libre;
+    font-weight: regular;
+    font-size: 1rem;
+}
+
+.container{
+    margin-left: 450px; 
+    
+}
+
+.featured{
+    border-left: 2px solid orange;
+    
+}
+
+
+h3{
+    font-family: Frank Ruhl Libre;
+    font-weight: regular;
+    font-size: 1.5rem;
+}
+
+main hr{
+    width: 630px;
+    height: 0.5px;
+}
+
+.ingredients{
+    margin-top: 0px;
+    font-family: Georgia;
+    font-weight: regular;
+    font-size: 15px;
+}
+
+h4{
+    margin-top: 20px;
+    margin-bottom:0px;
+}
+
+li{
+    
+    margin-bottom: 10px;
+}
+
+.footer{
+    text-align: start;
+    margin-left: 450px;
+}
